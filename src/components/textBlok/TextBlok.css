@@ -1,0 +1,155 @@
+.textblok {
+    width: 80%;
+    height: 80px;
+    background-color: #b5ffab;
+    position: relative;
+    border-radius: 10px;
+    margin-left: 30px;
+}
+
+.textblok::before {
+    content: "";
+    display: block;
+    width: 0;
+    height: 0;
+    border-top: 13px solid transparent;
+    border-right: 20px solid #b5ffab;
+    border-bottom: 13px solid transparent;
+    position: absolute;
+    left: -20px;
+    top: 26px;
+}
+
+
+.green1 {
+    background-image: url('../../assets/groen1.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 320px;
+    /* height: 100%; */
+    min-height: 200px;
+    /* margin-right: -30px; */
+    padding-top: 6px;
+    padding-left: 10px;
+    margin: 6px 2px;
+    
+}
+
+
+.green2 {
+    background-image: url('../../assets/jo_2.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 300px;
+    height: 60px;
+    /* height: 120px; */
+    /* margin-right: -30px; */
+    /* padding-top: 6px;
+    padding-left: 10px; */
+    /* margin: 6px 2px; */
+    
+}
+
+.white1, .white2, .white3, .white4, .white5, .white6, .white7, .white8, .white9, .white10, .white11, .white12, .white13, .white14, .white15, .white16  {
+    
+    background-repeat: no-repeat;
+    background-size: contain;
+   
+    /* height: 100%; */
+   
+    /* margin-right: -30px; */
+    padding-top: 6px;
+    padding-left: 10px;
+    margin: 6px 2px;
+    
+}
+.white1 {
+background-image: url('../../assets/wit1.png');
+width: 250px;
+height: 190px;
+}
+.white2 {
+    background-image: url('../../assets/maya.png');
+    width: 300px;
+    height:66px;
+}
+
+.white3 {
+    background-image: url('../../assets/sasha.png');
+    width: 320px;
+    height: 80px;
+}
+
+.white12 {
+    background-image: url('../../assets/merlijn_5.png');
+    width: 320px;
+    height: 66px;
+}
+
+
+
+.white4 {
+    background-image: url('../../assets/joop.png');
+    width: 338px;
+    height: 140px;
+    margin-left: -0px;
+}
+
+.white5 {
+    background-image: url('../../assets/mama4.png');
+    width: 334px;
+    height: 280px;
+}
+
+.white6 {
+    background-image: url('../../assets/charlie_lief.png');
+    width: 250px;
+    height: 100px;
+}
+
+.white7 {
+    background-image: url('../../assets/jetje.png');
+    width: 300px;
+    height: 100px;
+}
+.white8 {
+    background-image: url('../../assets/plien2.png');
+    width: 300px;
+    height: 100px;
+}
+.white13 {
+    background-image: url('../../assets/merlijn_3.png');
+    width: 300px;
+    height: 100px;
+}
+.white9 {
+    background-image: url('../../assets/mama3.png');
+    width: 300px;
+    height: 100px;
+}
+.white16 {
+    background-image: url('../../assets/maya2.png');
+    width: 300px;
+    height: 100px;
+}
+.white10 {
+    background-image: url('../../assets/sasha2.png');
+    width: 300px;
+    height: 100px;
+    margin-left: -1px;
+}
+.white11 {
+    background-image: url('../../assets/maik.png');
+    width: 300px;
+    height: 100px;
+}
+.white14 {
+    background-image: url('../../assets/merlijn_bier.png');
+    width: 300px;
+    height: 100px;
+}
+.white15 {
+    background-image: url('../../assets/joop_bier.png');
+    width: 300px;
+    height: 100px;
+}

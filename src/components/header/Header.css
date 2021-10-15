@@ -1,0 +1,9 @@
+.header {
+    width: 100vw;
+    height: 94px;
+    margin-top: 0;
+    background-image: url(../../assets/header.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #FFF;
+}
