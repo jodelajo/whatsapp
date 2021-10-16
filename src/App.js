@@ -30,12 +30,12 @@ function App() {
         <div className="wrapper-white">
           <TextBlok className="white12" />
         </div>
-        <div className="wrapper-white">
+        {/* <div className="wrapper-white">
           <TextBlok className="white4" />
         </div>
         <div className="wrapper-white">
           <TextBlok className="white5" />
-        </div>
+        </div> */}
 
         <div className="wrapper-green">
           <TextBlok
